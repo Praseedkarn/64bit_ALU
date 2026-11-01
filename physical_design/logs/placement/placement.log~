@@ -1,0 +1,442 @@
+OpenROAD v2.0-17598-ga008522d8 
+Features included (+) or not (-): +Charts +GPU +GUI +Python : None
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+
+============================================================
+       64-BIT ALU STANDARD-CELL PLACEMENT
+============================================================
+INFO: PDN database loaded.
+INFO: SKY130 HD timing library loaded.
+INFO: Timing constraints loaded.
+INFO: Starting global placement.
+[INFO GPL-0002] DBU: 1000
+[INFO GPL-0003] SiteSize: (  0.460  2.720 ) um
+[INFO GPL-0004] CoreBBox: ( 10.120 10.880 ) ( 212.980 212.160 ) um
+[WARNING GPL-0001] A[0] toplevel port is not placed!
+       Replace will regard A[0] is placed in (0, 0)
+[WARNING GPL-0001] A[10] toplevel port is not placed!
+       Replace will regard A[10] is placed in (0, 0)
+[WARNING GPL-0001] A[11] toplevel port is not placed!
+       Replace will regard A[11] is placed in (0, 0)
+[WARNING GPL-0001] A[12] toplevel port is not placed!
+       Replace will regard A[12] is placed in (0, 0)
+[WARNING GPL-0001] A[13] toplevel port is not placed!
+       Replace will regard A[13] is placed in (0, 0)
+[WARNING GPL-0001] A[14] toplevel port is not placed!
+       Replace will regard A[14] is placed in (0, 0)
+[WARNING GPL-0001] A[15] toplevel port is not placed!
+       Replace will regard A[15] is placed in (0, 0)
+[WARNING GPL-0001] A[16] toplevel port is not placed!
+       Replace will regard A[16] is placed in (0, 0)
+[WARNING GPL-0001] A[17] toplevel port is not placed!
+       Replace will regard A[17] is placed in (0, 0)
+[WARNING GPL-0001] A[18] toplevel port is not placed!
+       Replace will regard A[18] is placed in (0, 0)
+[WARNING GPL-0001] A[19] toplevel port is not placed!
+       Replace will regard A[19] is placed in (0, 0)
+[WARNING GPL-0001] A[1] toplevel port is not placed!
+       Replace will regard A[1] is placed in (0, 0)
+[WARNING GPL-0001] A[20] toplevel port is not placed!
+       Replace will regard A[20] is placed in (0, 0)
+[WARNING GPL-0001] A[21] toplevel port is not placed!
+       Replace will regard A[21] is placed in (0, 0)
+[WARNING GPL-0001] A[22] toplevel port is not placed!
+       Replace will regard A[22] is placed in (0, 0)
+[WARNING GPL-0001] A[23] toplevel port is not placed!
+       Replace will regard A[23] is placed in (0, 0)
+[WARNING GPL-0001] A[24] toplevel port is not placed!
+       Replace will regard A[24] is placed in (0, 0)
+[WARNING GPL-0001] A[25] toplevel port is not placed!
+       Replace will regard A[25] is placed in (0, 0)
+[WARNING GPL-0001] A[26] toplevel port is not placed!
+       Replace will regard A[26] is placed in (0, 0)
+[WARNING GPL-0001] A[27] toplevel port is not placed!
+       Replace will regard A[27] is placed in (0, 0)
+[WARNING GPL-0001] A[28] toplevel port is not placed!
+       Replace will regard A[28] is placed in (0, 0)
+[WARNING GPL-0001] A[29] toplevel port is not placed!
+       Replace will regard A[29] is placed in (0, 0)
+[WARNING GPL-0001] A[2] toplevel port is not placed!
+       Replace will regard A[2] is placed in (0, 0)
+[WARNING GPL-0001] A[30] toplevel port is not placed!
+       Replace will regard A[30] is placed in (0, 0)
+[WARNING GPL-0001] A[31] toplevel port is not placed!
+       Replace will regard A[31] is placed in (0, 0)
+[WARNING GPL-0001] A[32] toplevel port is not placed!
+       Replace will regard A[32] is placed in (0, 0)
+[WARNING GPL-0001] A[33] toplevel port is not placed!
+       Replace will regard A[33] is placed in (0, 0)
+[WARNING GPL-0001] A[34] toplevel port is not placed!
+       Replace will regard A[34] is placed in (0, 0)
+[WARNING GPL-0001] A[35] toplevel port is not placed!
+       Replace will regard A[35] is placed in (0, 0)
+[WARNING GPL-0001] A[36] toplevel port is not placed!
+       Replace will regard A[36] is placed in (0, 0)
+[WARNING GPL-0001] A[37] toplevel port is not placed!
+       Replace will regard A[37] is placed in (0, 0)
+[WARNING GPL-0001] A[38] toplevel port is not placed!
+       Replace will regard A[38] is placed in (0, 0)
+[WARNING GPL-0001] A[39] toplevel port is not placed!
+       Replace will regard A[39] is placed in (0, 0)
+[WARNING GPL-0001] A[3] toplevel port is not placed!
+       Replace will regard A[3] is placed in (0, 0)
+[WARNING GPL-0001] A[40] toplevel port is not placed!
+       Replace will regard A[40] is placed in (0, 0)
+[WARNING GPL-0001] A[41] toplevel port is not placed!
+       Replace will regard A[41] is placed in (0, 0)
+[WARNING GPL-0001] A[42] toplevel port is not placed!
+       Replace will regard A[42] is placed in (0, 0)
+[WARNING GPL-0001] A[43] toplevel port is not placed!
+       Replace will regard A[43] is placed in (0, 0)
+[WARNING GPL-0001] A[44] toplevel port is not placed!
+       Replace will regard A[44] is placed in (0, 0)
+[WARNING GPL-0001] A[45] toplevel port is not placed!
+       Replace will regard A[45] is placed in (0, 0)
+[WARNING GPL-0001] A[46] toplevel port is not placed!
+       Replace will regard A[46] is placed in (0, 0)
+[WARNING GPL-0001] A[47] toplevel port is not placed!
+       Replace will regard A[47] is placed in (0, 0)
+[WARNING GPL-0001] A[48] toplevel port is not placed!
+       Replace will regard A[48] is placed in (0, 0)
+[WARNING GPL-0001] A[49] toplevel port is not placed!
+       Replace will regard A[49] is placed in (0, 0)
+[WARNING GPL-0001] A[4] toplevel port is not placed!
+       Replace will regard A[4] is placed in (0, 0)
+[WARNING GPL-0001] A[50] toplevel port is not placed!
+       Replace will regard A[50] is placed in (0, 0)
+[WARNING GPL-0001] A[51] toplevel port is not placed!
+       Replace will regard A[51] is placed in (0, 0)
+[WARNING GPL-0001] A[52] toplevel port is not placed!
+       Replace will regard A[52] is placed in (0, 0)
+[WARNING GPL-0001] A[53] toplevel port is not placed!
+       Replace will regard A[53] is placed in (0, 0)
+[WARNING GPL-0001] A[54] toplevel port is not placed!
+       Replace will regard A[54] is placed in (0, 0)
+[WARNING GPL-0001] A[55] toplevel port is not placed!
+       Replace will regard A[55] is placed in (0, 0)
+[WARNING GPL-0001] A[56] toplevel port is not placed!
+       Replace will regard A[56] is placed in (0, 0)
+[WARNING GPL-0001] A[57] toplevel port is not placed!
+       Replace will regard A[57] is placed in (0, 0)
+[WARNING GPL-0001] A[58] toplevel port is not placed!
+       Replace will regard A[58] is placed in (0, 0)
+[WARNING GPL-0001] A[59] toplevel port is not placed!
+       Replace will regard A[59] is placed in (0, 0)
+[WARNING GPL-0001] A[5] toplevel port is not placed!
+       Replace will regard A[5] is placed in (0, 0)
+[WARNING GPL-0001] A[60] toplevel port is not placed!
+       Replace will regard A[60] is placed in (0, 0)
+[WARNING GPL-0001] A[61] toplevel port is not placed!
+       Replace will regard A[61] is placed in (0, 0)
+[WARNING GPL-0001] A[62] toplevel port is not placed!
+       Replace will regard A[62] is placed in (0, 0)
+[WARNING GPL-0001] A[63] toplevel port is not placed!
+       Replace will regard A[63] is placed in (0, 0)
+[WARNING GPL-0001] A[6] toplevel port is not placed!
+       Replace will regard A[6] is placed in (0, 0)
+[WARNING GPL-0001] A[7] toplevel port is not placed!
+       Replace will regard A[7] is placed in (0, 0)
+[WARNING GPL-0001] A[8] toplevel port is not placed!
+       Replace will regard A[8] is placed in (0, 0)
+[WARNING GPL-0001] A[9] toplevel port is not placed!
+       Replace will regard A[9] is placed in (0, 0)
+[WARNING GPL-0001] B[0] toplevel port is not placed!
+       Replace will regard B[0] is placed in (0, 0)
+[WARNING GPL-0001] B[10] toplevel port is not placed!
+       Replace will regard B[10] is placed in (0, 0)
+[WARNING GPL-0001] B[11] toplevel port is not placed!
+       Replace will regard B[11] is placed in (0, 0)
+[WARNING GPL-0001] B[12] toplevel port is not placed!
+       Replace will regard B[12] is placed in (0, 0)
+[WARNING GPL-0001] B[13] toplevel port is not placed!
+       Replace will regard B[13] is placed in (0, 0)
+[WARNING GPL-0001] B[14] toplevel port is not placed!
+       Replace will regard B[14] is placed in (0, 0)
+[WARNING GPL-0001] B[15] toplevel port is not placed!
+       Replace will regard B[15] is placed in (0, 0)
+[WARNING GPL-0001] B[16] toplevel port is not placed!
+       Replace will regard B[16] is placed in (0, 0)
+[WARNING GPL-0001] B[17] toplevel port is not placed!
+       Replace will regard B[17] is placed in (0, 0)
+[WARNING GPL-0001] B[18] toplevel port is not placed!
+       Replace will regard B[18] is placed in (0, 0)
+[WARNING GPL-0001] B[19] toplevel port is not placed!
+       Replace will regard B[19] is placed in (0, 0)
+[WARNING GPL-0001] B[1] toplevel port is not placed!
+       Replace will regard B[1] is placed in (0, 0)
+[WARNING GPL-0001] B[20] toplevel port is not placed!
+       Replace will regard B[20] is placed in (0, 0)
+[WARNING GPL-0001] B[21] toplevel port is not placed!
+       Replace will regard B[21] is placed in (0, 0)
+[WARNING GPL-0001] B[22] toplevel port is not placed!
+       Replace will regard B[22] is placed in (0, 0)
+[WARNING GPL-0001] B[23] toplevel port is not placed!
+       Replace will regard B[23] is placed in (0, 0)
+[WARNING GPL-0001] B[24] toplevel port is not placed!
+       Replace will regard B[24] is placed in (0, 0)
+[WARNING GPL-0001] B[25] toplevel port is not placed!
+       Replace will regard B[25] is placed in (0, 0)
+[WARNING GPL-0001] B[26] toplevel port is not placed!
+       Replace will regard B[26] is placed in (0, 0)
+[WARNING GPL-0001] B[27] toplevel port is not placed!
+       Replace will regard B[27] is placed in (0, 0)
+[WARNING GPL-0001] B[28] toplevel port is not placed!
+       Replace will regard B[28] is placed in (0, 0)
+[WARNING GPL-0001] B[29] toplevel port is not placed!
+       Replace will regard B[29] is placed in (0, 0)
+[WARNING GPL-0001] B[2] toplevel port is not placed!
+       Replace will regard B[2] is placed in (0, 0)
+[WARNING GPL-0001] B[30] toplevel port is not placed!
+       Replace will regard B[30] is placed in (0, 0)
+[WARNING GPL-0001] B[31] toplevel port is not placed!
+       Replace will regard B[31] is placed in (0, 0)
+[WARNING GPL-0001] B[32] toplevel port is not placed!
+       Replace will regard B[32] is placed in (0, 0)
+[WARNING GPL-0001] B[33] toplevel port is not placed!
+       Replace will regard B[33] is placed in (0, 0)
+[WARNING GPL-0001] B[34] toplevel port is not placed!
+       Replace will regard B[34] is placed in (0, 0)
+[WARNING GPL-0001] B[35] toplevel port is not placed!
+       Replace will regard B[35] is placed in (0, 0)
+[WARNING GPL-0001] B[36] toplevel port is not placed!
+       Replace will regard B[36] is placed in (0, 0)
+[WARNING GPL-0001] B[37] toplevel port is not placed!
+       Replace will regard B[37] is placed in (0, 0)
+[WARNING GPL-0001] B[38] toplevel port is not placed!
+       Replace will regard B[38] is placed in (0, 0)
+[WARNING GPL-0001] B[39] toplevel port is not placed!
+       Replace will regard B[39] is placed in (0, 0)
+[WARNING GPL-0001] B[3] toplevel port is not placed!
+       Replace will regard B[3] is placed in (0, 0)
+[WARNING GPL-0001] B[40] toplevel port is not placed!
+       Replace will regard B[40] is placed in (0, 0)
+[WARNING GPL-0001] B[41] toplevel port is not placed!
+       Replace will regard B[41] is placed in (0, 0)
+[WARNING GPL-0001] B[42] toplevel port is not placed!
+       Replace will regard B[42] is placed in (0, 0)
+[WARNING GPL-0001] B[43] toplevel port is not placed!
+       Replace will regard B[43] is placed in (0, 0)
+[WARNING GPL-0001] B[44] toplevel port is not placed!
+       Replace will regard B[44] is placed in (0, 0)
+[WARNING GPL-0001] B[45] toplevel port is not placed!
+       Replace will regard B[45] is placed in (0, 0)
+[WARNING GPL-0001] B[46] toplevel port is not placed!
+       Replace will regard B[46] is placed in (0, 0)
+[WARNING GPL-0001] B[47] toplevel port is not placed!
+       Replace will regard B[47] is placed in (0, 0)
+[WARNING GPL-0001] B[48] toplevel port is not placed!
+       Replace will regard B[48] is placed in (0, 0)
+[WARNING GPL-0001] B[49] toplevel port is not placed!
+       Replace will regard B[49] is placed in (0, 0)
+[WARNING GPL-0001] B[4] toplevel port is not placed!
+       Replace will regard B[4] is placed in (0, 0)
+[WARNING GPL-0001] B[50] toplevel port is not placed!
+       Replace will regard B[50] is placed in (0, 0)
+[WARNING GPL-0001] B[51] toplevel port is not placed!
+       Replace will regard B[51] is placed in (0, 0)
+[WARNING GPL-0001] B[52] toplevel port is not placed!
+       Replace will regard B[52] is placed in (0, 0)
+[WARNING GPL-0001] B[53] toplevel port is not placed!
+       Replace will regard B[53] is placed in (0, 0)
+[WARNING GPL-0001] B[54] toplevel port is not placed!
+       Replace will regard B[54] is placed in (0, 0)
+[WARNING GPL-0001] B[55] toplevel port is not placed!
+       Replace will regard B[55] is placed in (0, 0)
+[WARNING GPL-0001] B[56] toplevel port is not placed!
+       Replace will regard B[56] is placed in (0, 0)
+[WARNING GPL-0001] B[57] toplevel port is not placed!
+       Replace will regard B[57] is placed in (0, 0)
+[WARNING GPL-0001] B[58] toplevel port is not placed!
+       Replace will regard B[58] is placed in (0, 0)
+[WARNING GPL-0001] B[59] toplevel port is not placed!
+       Replace will regard B[59] is placed in (0, 0)
+[WARNING GPL-0001] B[5] toplevel port is not placed!
+       Replace will regard B[5] is placed in (0, 0)
+[WARNING GPL-0001] B[60] toplevel port is not placed!
+       Replace will regard B[60] is placed in (0, 0)
+[WARNING GPL-0001] B[61] toplevel port is not placed!
+       Replace will regard B[61] is placed in (0, 0)
+[WARNING GPL-0001] B[62] toplevel port is not placed!
+       Replace will regard B[62] is placed in (0, 0)
+[WARNING GPL-0001] B[63] toplevel port is not placed!
+       Replace will regard B[63] is placed in (0, 0)
+[WARNING GPL-0001] B[6] toplevel port is not placed!
+       Replace will regard B[6] is placed in (0, 0)
+[WARNING GPL-0001] B[7] toplevel port is not placed!
+       Replace will regard B[7] is placed in (0, 0)
+[WARNING GPL-0001] B[8] toplevel port is not placed!
+       Replace will regard B[8] is placed in (0, 0)
+[WARNING GPL-0001] B[9] toplevel port is not placed!
+       Replace will regard B[9] is placed in (0, 0)
+[WARNING GPL-0001] carry toplevel port is not placed!
+       Replace will regard carry is placed in (0, 0)
+[WARNING GPL-0001] clk toplevel port is not placed!
+       Replace will regard clk is placed in (0, 0)
+[WARNING GPL-0001] result[63] toplevel port is not placed!
+       Replace will regard result[63] is placed in (0, 0)
+[WARNING GPL-0001] negative toplevel port is not placed!
+       Replace will regard negative is placed in (0, 0)
+[WARNING GPL-0001] opcode[0] toplevel port is not placed!
+       Replace will regard opcode[0] is placed in (0, 0)
+[WARNING GPL-0001] opcode[1] toplevel port is not placed!
+       Replace will regard opcode[1] is placed in (0, 0)
+[WARNING GPL-0001] opcode[2] toplevel port is not placed!
+       Replace will regard opcode[2] is placed in (0, 0)
+[WARNING GPL-0001] opcode[3] toplevel port is not placed!
+       Replace will regard opcode[3] is placed in (0, 0)
+[WARNING GPL-0001] overflow toplevel port is not placed!
+       Replace will regard overflow is placed in (0, 0)
+[WARNING GPL-0001] result[0] toplevel port is not placed!
+       Replace will regard result[0] is placed in (0, 0)
+[WARNING GPL-0001] result[10] toplevel port is not placed!
+       Replace will regard result[10] is placed in (0, 0)
+[WARNING GPL-0001] result[11] toplevel port is not placed!
+       Replace will regard result[11] is placed in (0, 0)
+[WARNING GPL-0001] result[12] toplevel port is not placed!
+       Replace will regard result[12] is placed in (0, 0)
+[WARNING GPL-0001] result[13] toplevel port is not placed!
+       Replace will regard result[13] is placed in (0, 0)
+[WARNING GPL-0001] result[14] toplevel port is not placed!
+       Replace will regard result[14] is placed in (0, 0)
+[WARNING GPL-0001] result[15] toplevel port is not placed!
+       Replace will regard result[15] is placed in (0, 0)
+[WARNING GPL-0001] result[16] toplevel port is not placed!
+       Replace will regard result[16] is placed in (0, 0)
+[WARNING GPL-0001] result[17] toplevel port is not placed!
+       Replace will regard result[17] is placed in (0, 0)
+[WARNING GPL-0001] result[18] toplevel port is not placed!
+       Replace will regard result[18] is placed in (0, 0)
+[WARNING GPL-0001] result[19] toplevel port is not placed!
+       Replace will regard result[19] is placed in (0, 0)
+[WARNING GPL-0001] result[1] toplevel port is not placed!
+       Replace will regard result[1] is placed in (0, 0)
+[WARNING GPL-0001] result[20] toplevel port is not placed!
+       Replace will regard result[20] is placed in (0, 0)
+[WARNING GPL-0001] result[21] toplevel port is not placed!
+       Replace will regard result[21] is placed in (0, 0)
+[WARNING GPL-0001] result[22] toplevel port is not placed!
+       Replace will regard result[22] is placed in (0, 0)
+[WARNING GPL-0001] result[23] toplevel port is not placed!
+       Replace will regard result[23] is placed in (0, 0)
+[WARNING GPL-0001] result[24] toplevel port is not placed!
+       Replace will regard result[24] is placed in (0, 0)
+[WARNING GPL-0001] result[25] toplevel port is not placed!
+       Replace will regard result[25] is placed in (0, 0)
+[WARNING GPL-0001] result[26] toplevel port is not placed!
+       Replace will regard result[26] is placed in (0, 0)
+[WARNING GPL-0001] result[27] toplevel port is not placed!
+       Replace will regard result[27] is placed in (0, 0)
+[WARNING GPL-0001] result[28] toplevel port is not placed!
+       Replace will regard result[28] is placed in (0, 0)
+[WARNING GPL-0001] result[29] toplevel port is not placed!
+       Replace will regard result[29] is placed in (0, 0)
+[WARNING GPL-0001] result[2] toplevel port is not placed!
+       Replace will regard result[2] is placed in (0, 0)
+[WARNING GPL-0001] result[30] toplevel port is not placed!
+       Replace will regard result[30] is placed in (0, 0)
+[WARNING GPL-0001] result[31] toplevel port is not placed!
+       Replace will regard result[31] is placed in (0, 0)
+[WARNING GPL-0001] result[32] toplevel port is not placed!
+       Replace will regard result[32] is placed in (0, 0)
+[WARNING GPL-0001] result[33] toplevel port is not placed!
+       Replace will regard result[33] is placed in (0, 0)
+[WARNING GPL-0001] result[34] toplevel port is not placed!
+       Replace will regard result[34] is placed in (0, 0)
+[WARNING GPL-0001] result[35] toplevel port is not placed!
+       Replace will regard result[35] is placed in (0, 0)
+[WARNING GPL-0001] result[36] toplevel port is not placed!
+       Replace will regard result[36] is placed in (0, 0)
+[WARNING GPL-0001] result[37] toplevel port is not placed!
+       Replace will regard result[37] is placed in (0, 0)
+[WARNING GPL-0001] result[38] toplevel port is not placed!
+       Replace will regard result[38] is placed in (0, 0)
+[WARNING GPL-0001] result[39] toplevel port is not placed!
+       Replace will regard result[39] is placed in (0, 0)
+[WARNING GPL-0001] result[3] toplevel port is not placed!
+       Replace will regard result[3] is placed in (0, 0)
+[WARNING GPL-0001] result[40] toplevel port is not placed!
+       Replace will regard result[40] is placed in (0, 0)
+[WARNING GPL-0001] result[41] toplevel port is not placed!
+       Replace will regard result[41] is placed in (0, 0)
+[WARNING GPL-0001] result[42] toplevel port is not placed!
+       Replace will regard result[42] is placed in (0, 0)
+[WARNING GPL-0001] result[43] toplevel port is not placed!
+       Replace will regard result[43] is placed in (0, 0)
+[WARNING GPL-0001] result[44] toplevel port is not placed!
+       Replace will regard result[44] is placed in (0, 0)
+[WARNING GPL-0001] result[45] toplevel port is not placed!
+       Replace will regard result[45] is placed in (0, 0)
+[WARNING GPL-0001] result[46] toplevel port is not placed!
+       Replace will regard result[46] is placed in (0, 0)
+[WARNING GPL-0001] result[47] toplevel port is not placed!
+       Replace will regard result[47] is placed in (0, 0)
+[WARNING GPL-0001] result[48] toplevel port is not placed!
+       Replace will regard result[48] is placed in (0, 0)
+[WARNING GPL-0001] result[49] toplevel port is not placed!
+       Replace will regard result[49] is placed in (0, 0)
+[WARNING GPL-0001] result[4] toplevel port is not placed!
+       Replace will regard result[4] is placed in (0, 0)
+[WARNING GPL-0001] result[50] toplevel port is not placed!
+       Replace will regard result[50] is placed in (0, 0)
+[WARNING GPL-0001] result[51] toplevel port is not placed!
+       Replace will regard result[51] is placed in (0, 0)
+[WARNING GPL-0001] result[52] toplevel port is not placed!
+       Replace will regard result[52] is placed in (0, 0)
+[WARNING GPL-0001] result[53] toplevel port is not placed!
+       Replace will regard result[53] is placed in (0, 0)
+[WARNING GPL-0001] result[54] toplevel port is not placed!
+       Replace will regard result[54] is placed in (0, 0)
+[WARNING GPL-0001] result[55] toplevel port is not placed!
+       Replace will regard result[55] is placed in (0, 0)
+[WARNING GPL-0001] result[56] toplevel port is not placed!
+       Replace will regard result[56] is placed in (0, 0)
+[WARNING GPL-0001] result[57] toplevel port is not placed!
+       Replace will regard result[57] is placed in (0, 0)
+[WARNING GPL-0001] result[58] toplevel port is not placed!
+       Replace will regard result[58] is placed in (0, 0)
+[WARNING GPL-0001] result[59] toplevel port is not placed!
+       Replace will regard result[59] is placed in (0, 0)
+[WARNING GPL-0001] result[5] toplevel port is not placed!
+       Replace will regard result[5] is placed in (0, 0)
+[WARNING GPL-0001] result[60] toplevel port is not placed!
+       Replace will regard result[60] is placed in (0, 0)
+[WARNING GPL-0001] result[61] toplevel port is not placed!
+       Replace will regard result[61] is placed in (0, 0)
+[WARNING GPL-0001] result[62] toplevel port is not placed!
+       Replace will regard result[62] is placed in (0, 0)
+[WARNING GPL-0001] result[6] toplevel port is not placed!
+       Replace will regard result[6] is placed in (0, 0)
+[WARNING GPL-0001] result[7] toplevel port is not placed!
+       Replace will regard result[7] is placed in (0, 0)
+[WARNING GPL-0001] result[8] toplevel port is not placed!
+       Replace will regard result[8] is placed in (0, 0)
+[WARNING GPL-0001] result[9] toplevel port is not placed!
+       Replace will regard result[9] is placed in (0, 0)
+[WARNING GPL-0001] rst toplevel port is not placed!
+       Replace will regard rst is placed in (0, 0)
+[WARNING GPL-0001] zero toplevel port is not placed!
+       Replace will regard zero is placed in (0, 0)
+[INFO GPL-0006] NumInstances:              2413
+[INFO GPL-0007] NumPlaceInstances:         2413
+[INFO GPL-0008] NumFixedInstances:            0
+[INFO GPL-0009] NumDummyInstances:            0
+[INFO GPL-0010] NumNets:                   2547
+[INFO GPL-0011] NumPins:                   9170
+[INFO GPL-0012] DieBBox:  (  0.000  0.000 ) ( 223.170 223.170 ) um
+[INFO GPL-0013] CoreBBox: ( 10.120 10.880 ) ( 212.980 212.160 ) um
+[INFO GPL-0016] CoreArea:             40831.661 um^2
+[INFO GPL-0017] NonPlaceInstsArea:        0.000 um^2
+[INFO GPL-0018] PlaceInstsArea:       14447.606 um^2
+[INFO GPL-0019] Util:                    35.383 %
+[INFO GPL-0020] StdInstsArea:         14447.606 um^2
+[INFO GPL-0021] MacroInstsArea:           0.000 um^2
+[InitialPlace]  Iter: 1 CG residual: 0.00000010 HPWL: 14432280
+[InitialPlace]  Iter: 2 CG residual: 0.00000011 HPWL: 15793997
+[InitialPlace]  Iter: 3 CG residual: 0.00000011 HPWL: 15658839
+[InitialPlace]  Iter: 4 CG residual: 0.00000010 HPWL: 15676563
+[InitialPlace]  Iter: 5 CG residual: 0.00000009 HPWL: 15679977
+[ERROR GPL-0302] Use a higher -density or re-floorplan with a larger core area.
+Given target density: 0.35
+Suggested target density: 0.36
+Error: placement.tcl, 74 GPL-0302
